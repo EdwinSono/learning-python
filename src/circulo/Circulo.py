@@ -11,6 +11,7 @@ class Circulo():
     return math.pi*self.radio**2
 
   def listar(self):
-    print "radio", self.radio
-    print "circunferencia", self.circunferencia()
-    print "area", self.area()
+    print("----------------------")
+    print("radio", self.radio)
+    print("circunferencia", self.circunferencia())
+    print("area", self.area())

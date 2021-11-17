@@ -23,6 +23,7 @@ class Alumno():
     return condicion
 
   def listar(self):
-    print "nombre", self.nombre
-    print "promedio", self.promedio()
-    print "condicion", self.condicion()
+    print("----------------------")
+    print("nombre", self.nombre)
+    print("promedio", self.promedio())
+    print("condicion", self.condicion())

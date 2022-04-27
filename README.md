@@ -9,6 +9,8 @@ Ejercicio 2
 BigQuery
   `python3 src/bigQuery/index.py`
 
+Ejercicio Reproductor
+  `python3 src/music/Principal.py`
 # bigQuery
 `$ export GOOGLE_APPLICATION_CREDENTIALS="/Users/edwin/Documents/github/learning-python/certificates/moonei-bigquery.json"`
 
